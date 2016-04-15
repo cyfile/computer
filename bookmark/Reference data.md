@@ -12,3 +12,6 @@ http://emulefans.com/server-met-130711/
 
 Google 镜像站搜集
 https://github.com/sxyx2008/DevArticles/issues/99
+
+美人志
+http://mm.motie.com/book/11081/chapter
