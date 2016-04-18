@@ -11,9 +11,9 @@ http://www.w3schools.com/default.asp#gsc.tab=0
 http://w3schools.invisionzone.com/
 
 山寨w3c
-http://www.w3cschool.cc/
+http://www.w3cschool.cc/ 
 在该网站的免责声明里可以看出
-http://www.w3cschool.cc/aboutus
+http://www.w3cschool.cc/aboutus 
 但是这个网站提供 python java 等语言的教程
 http://www.w3cschool.cc/python/python-tutorial.html
 
