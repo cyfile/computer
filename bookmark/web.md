@@ -17,3 +17,11 @@ http://www.w3cschool.cc/aboutus
 但是这个网站提供 python java 等语言的教程
 http://www.w3cschool.cc/python/python-tutorial.html
 
+jsbeautifier
+http://jsbeautifier.org/
+
+JsFormat
+http://tool.chinaz.com/Tools/JsFormat.aspx
+
+石川视频
+http://www.youku.com/playlist_show/id_18270248.html
