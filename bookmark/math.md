@@ -12,3 +12,8 @@ http://www.kaoyan361.com/forum.php?mod=viewthread&tid=2377&extra=page%3D2
 
 空间直线与平面的交点
 http://blog.csdn.net/abcjennifer/article/details/6688080
+
+Floating-Point Conversion
+http://www.h-schmidt.net/FloatConverter/IEEE754.html  
+http://babbage.cs.qc.cuny.edu/IEEE-754.old/Decimal.html  
+http://babbage.cs.qc.cuny.edu/IEEE-754.old/
