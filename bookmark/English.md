@@ -18,3 +18,7 @@ http://www.quickanddirtytips.com/
 
 VOA慢速英语
 http://www.chinavoa.com/60_second_science/
+
+Nature AUDIO & VIDEO   
+http://www.nature.com/nature/audio_video/index.html   
+http://www.nature.com/nature/outline/ovarian-cancer/#animation
