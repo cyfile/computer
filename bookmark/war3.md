@@ -2,6 +2,10 @@ war3官方数据
 http://classic.battle.net/war3/
 The Frozen Throne Strategy Guide
 
+WE 帮助文档
+    http://world-editor-tutorials.thehelper.net/
+world-editor-tutorials
+
 魔兽地图编辑器吧内容导航
 http://tieba.baidu.com/f?kz=776725894
 【2010年导航贴】[公邮]+[新手]+[进阶]+[高阶]
