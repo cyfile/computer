@@ -11,3 +11,9 @@ http://babbage.cs.qc.cuny.edu/IEEE-754.old/
 
 software official website and substitution
 http://alternativeto.net/platform/windows/
+
+站长工具
+http://tool.chinaz.com/
+
+UrlEncode编码/解码
+http://tool.chinaz.com/tools/urlencode.aspx
