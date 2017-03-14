@@ -3,7 +3,7 @@ http://classic.battle.net/war3/
 The Frozen Throne Strategy Guide
 
 WE 帮助文档
-    http://world-editor-tutorials.thehelper.net/
+http://world-editor-tutorials.thehelper.net/
 world-editor-tutorials
 
 魔兽地图编辑器吧内容导航
@@ -25,5 +25,5 @@ http://sfsrealm.hopto.org/inside_mopaq/prologue.htm#history_of_inside_mopaq
 As should be self-evident, this article is about the MPQ format, the "Blizzard archive". I hope that I can explain what MPQs are, how they works, and why they do the things they do.
 
 Quotes of Warcraft III
-http://wowwiki.wikia.com/wiki/Quotes_of_Warcraft_III   
+http://wowwiki.wikia.com/wiki/Quotes_of_Warcraft_III
 war3 音效
