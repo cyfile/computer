@@ -12,4 +12,5 @@ miktex manual
 http://docs.miktex.org/manual/index.html
 
 可视化公式
+http://latex.codecogs.com/
 http://www.sciweavers.org/free-online-latex-equation-editor#
