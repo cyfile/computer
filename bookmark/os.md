@@ -1,7 +1,7 @@
 The Starman's Realm (大宝藏)
 http://thestarman.pcministry.com/   
 The MS-DOS 7  Internal Commands(Dos manual)
-http://thestarman.pcministry.com/DOS/DOS7INT.htm   
+http://thestarman.pcministry.com/DOS/DOS7INT.htm   
 A DEBUG Tutorial (MS-Debug manual)
 http://thestarman.pcministry.com/asm/debug/debug2.htm
 
