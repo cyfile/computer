@@ -17,3 +17,9 @@ Floating-Point Conversion
 http://www.h-schmidt.net/FloatConverter/IEEE754.html  
 http://babbage.cs.qc.cuny.edu/IEEE-754.old/Decimal.html  
 http://babbage.cs.qc.cuny.edu/IEEE-754.old/
+
+中科院研究生课程 
+http://pan.baidu.com/share/home?uk=1982446902#category/type=0
+
+中国科学院研究生课程类专题 
+http://www.xuexi111.com/s/zkyshipin/
