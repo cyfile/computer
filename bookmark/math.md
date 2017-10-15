@@ -7,6 +7,11 @@ http://www.sudokuwiki.org/
 true randomness
 http://www.random.org/
 
+匈牙利算法
+http://csclab.murraystate.edu/bob.pilgrim/445/    
+http://csclab.murraystate.edu/bob.pilgrim/445/munkres.html    
+http://csclab.murraystate.edu/bob.pilgrim/445/sample_problems/sample_problems.html
+
 张宇 2014年概率论与数理统计 考研361
 http://www.kaoyan361.com/forum.php?mod=viewthread&tid=2377&extra=page%3D2
 
