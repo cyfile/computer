@@ -29,3 +29,6 @@ http://www.flash-gear.com/puzzle/
 
 ps online
 https://pixlr.com/editor/
+
+download a video just insert a link!
+https://en.savefrom.net/
