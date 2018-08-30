@@ -4,6 +4,9 @@ http://panthema.net/2013/sound-of-sorting/#video
 sudoku 解法策略 求解辅助工具
 http://www.sudokuwiki.org/
 
+AlphaGo Teaching Tool of playing Go
+https://alphagoteach.deepmind.com/
+
 true randomness
 http://www.random.org/
 
