@@ -20,6 +20,12 @@ http://world-editor-tutorials.thehelper.net/cat_usersubmit.php?view=42787
 Inside W3M files (w3e, w3i, doo,...)
 http://www.wc3c.net/showthread.php?t=937
 
+specifications of Warcraft III maps files (*.w3m and *.w3x)
+http://www.wc3c.net/tools/specs/
+
+BLP Specifications (WC3)
+https://www.hiveworkshop.com/threads/blp-specifications-wc3.279306/
+
 inside_mopaq
 http://sfsrealm.hopto.org/inside_mopaq/prologue.htm#history_of_inside_mopaq
 As should be self-evident, this article is about the MPQ format, the "Blizzard archive". I hope that I can explain what MPQs are, how they works, and why they do the things they do.
