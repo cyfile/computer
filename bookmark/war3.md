@@ -33,3 +33,9 @@ As should be self-evident, this article is about the MPQ format, the "Blizzard a
 Quotes of Warcraft III
 http://wowwiki.wikia.com/wiki/Quotes_of_Warcraft_III
 war3 音效
+
+Blizzard General Discussion   
+https://us.battle.net/forums/en/bnet/12790218/
+
+Warcraft encyclopedia   
+https://liquipedia.net/warcraft/Main_Page
