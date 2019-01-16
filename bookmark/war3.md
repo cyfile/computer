@@ -35,7 +35,7 @@ http://wowwiki.wikia.com/wiki/Quotes_of_Warcraft_III
 war3 音效
 
 Blizzard General Discussion   
-https://us.battle.net/forums/en/bnet/12790218/
+https://us.forums.blizzard.com/en/warcraft3/latest
 
 Warcraft encyclopedia   
 https://liquipedia.net/warcraft/Main_Page
