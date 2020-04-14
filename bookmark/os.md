@@ -16,3 +16,8 @@ https://msdn.microsoft.com/en-us/library/59ey50w6.aspx
 
 c语言百度贴吧 http://tieba.baidu.com/f?kw=c%D3%EF%D1%D4&tp=1   
 http://tieba.baidu.com/f?kw=c%E8%AF%AD%E8%A8%80
+
+C++ & C函数手册   
+http://www.cplusplus.com/reference/   
+https://en.cppreference.com/w   
+https://zh.cppreference.com/w/cpp/header
