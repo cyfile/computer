@@ -21,3 +21,6 @@ C++ & C函数手册
 http://www.cplusplus.com/reference/   
 https://en.cppreference.com/w   
 https://zh.cppreference.com/w/cpp/header
+
+在线代码运行   
+https://tool.lu/u/213/codes/
