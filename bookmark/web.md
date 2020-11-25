@@ -25,6 +25,3 @@ http://jsbeautifier.org/
 
 JsFormat
 http://tool.chinaz.com/Tools/JsFormat.aspx
-
-石川视频
-http://www.youku.com/playlist_show/id_18270248.html
