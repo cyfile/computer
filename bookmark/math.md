@@ -15,8 +15,7 @@ http://csclab.murraystate.edu/bob.pilgrim/445/
 http://csclab.murraystate.edu/bob.pilgrim/445/munkres.html  
 http://csclab.murraystate.edu/bob.pilgrim/445/sample_problems/sample_problems.html
 
-张宇 2014年概率论与数理统计 考研361
-http://www.kaoyan361.com/forum.php?mod=viewthread&tid=2377&extra=page%3D2
+
 
 空间直线与平面的交点
 http://blog.csdn.net/abcjennifer/article/details/6688080
