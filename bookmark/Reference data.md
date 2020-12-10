@@ -2,10 +2,10 @@ heavens-above
 http://www.heavens-above.com/
 
 alexa
-http://www.alexa.com/topsites/global
+https://www.alexa.com/topsites
 
 tiobe
-http://www.tiobe.com/index.php/content/paperinfo/tpci/MATLAB.html
+https://www.tiobe.com/tiobe-index/
 
 eD2k电驴服务器列表
 http://emulefans.com/server-met-130711/
