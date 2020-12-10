@@ -26,3 +26,5 @@ https://zh.cppreference.com/w/cpp/header
 https://tool.lu/u/213/codes/
 
 web develop https://codepen.io/pen/
+
+Chrome DevTools https://developers.google.cn/web/tools/chrome-devtools/network/reference
