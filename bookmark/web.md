@@ -1,5 +1,7 @@
 MDN Web Docs
 https://developer.mozilla.org/en-US/
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
 
 W3School 是 W3C 中国社区成员，为社区的建设提供教程、资料翻译等服务。
 http://www.w3school.com.cn/index.html  
