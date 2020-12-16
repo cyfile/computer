@@ -31,4 +31,7 @@ x86 Registers
 https://wiki.cheatengine.org/index.php?title=Assembler#Segments    
 https://wiki.cheatengine.org/index.php?title=File:Table_of_x86_Registers_svg.svg.png
 
+X86_instruction  
+https://en.wikipedia.org/wiki/X86_instruction_listings#SSE2_instructions
+
 Chrome DevTools https://developers.google.cn/web/tools/chrome-devtools/network/reference
