@@ -27,4 +27,8 @@ https://tool.lu/u/213/codes/
 
 web develop https://codepen.io/pen/
 
+x86 Registers
+https://wiki.cheatengine.org/index.php?title=Assembler#Segments    
+https://wiki.cheatengine.org/index.php?title=File:Table_of_x86_Registers_svg.svg.png
+
 Chrome DevTools https://developers.google.cn/web/tools/chrome-devtools/network/reference
