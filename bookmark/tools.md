@@ -41,3 +41,4 @@ https://pixlr.com/editor/
 
 download a video just insert a link!
 https://en.savefrom.net/
+https://en.savefrom.net/18/
