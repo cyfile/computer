@@ -33,8 +33,6 @@ http://tool.chinaz.com/Tools/htmlchar.aspx
 Class Diagram
 https://yuml.me/diagram/scruffy/class/samples
 
-自己做个图来让别人拼 
-http://www.flash-gear.com/puzzle/
 
 ps online
 https://pixlr.com/editor/
