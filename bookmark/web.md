@@ -25,5 +25,5 @@ http://www.w3cschool.cc/python/python-tutorial.html
 web develop  
 https://codepen.io/pen/
 
-Chrome DevTools 使用 
+Chrome DevTools 使用  
 https://developers.google.cn/web/tools/chrome-devtools/network/reference
