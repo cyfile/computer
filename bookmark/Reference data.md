@@ -1,3 +1,6 @@
+Intel系列 CPU天梯图    
+http://www.ppnames.com/html/352.html
+
 heavens-above
 http://www.heavens-above.com/
 
