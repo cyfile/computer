@@ -1,5 +1,4 @@
-Intel系列 CPU天梯图    
-http://www.ppnames.com/html/352.html
+
 
 Color space converter
  http://www.rapidtables.com/convert/color/index.htm
