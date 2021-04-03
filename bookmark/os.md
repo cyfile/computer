@@ -1,4 +1,4 @@
---- Assembly Language
+### Assembly Language
 The Starman's Realm (大宝藏)
 http://thestarman.pcministry.com/   
 The MS-DOS 7  Internal Commands(Dos manual)
@@ -9,7 +9,7 @@ http://thestarman.pcministry.com/asm/debug/debug2.htm
 DEBUG tutorial
 http://www.armory.com/~rstevew/Public/Tutor/Debug/debug-manual.html
 
---- C and C++
+### C and C++
 C Language Library
 http://www.cplusplus.com/reference/cstdio/printf/
 
@@ -24,7 +24,7 @@ http://www.cplusplus.com/reference/
 https://en.cppreference.com/w   
 https://zh.cppreference.com/w/cpp/header
 
---- java
+### java
 https://tool.oschina.net/uploads/apidocs/jdk-zh/java/awt/class-use/Frame.html
 
 JNA api   
