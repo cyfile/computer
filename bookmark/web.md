@@ -1,5 +1,5 @@
 MDN Web Docs
-https://developer.mozilla.org/en-US/
+https://developer.mozilla.org/en-US/ 
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 
@@ -22,8 +22,5 @@ http://www.w3cschool.cc/aboutus
 但是这个网站提供 python java 等语言的教程
 http://www.w3cschool.cc/python/python-tutorial.html
 
-jsbeautifier
-http://jsbeautifier.org/
-
-JsFormat
-http://tool.chinaz.com/Tools/JsFormat.aspx
+web develop 
+https://codepen.io/pen/
