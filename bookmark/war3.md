@@ -18,10 +18,8 @@ Explanation of W3M and W3X Files
 http://world-editor-tutorials.thehelper.net/cat_usersubmit.php?view=42787
 
 Inside W3M files (w3e, w3i, doo,...)
-http://www.wc3c.net/showthread.php?t=937
-
 specifications of Warcraft III maps files (*.w3m and *.w3x)
-http://www.wc3c.net/tools/specs/
+https://wc3maps.com/InsideTheW3M.html
 
 BLP Specifications (WC3)
 https://www.hiveworkshop.com/threads/blp-specifications-wc3.279306/
