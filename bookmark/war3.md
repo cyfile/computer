@@ -29,7 +29,8 @@ http://sfsrealm.hopto.org/inside_mopaq/prologue.htm#history_of_inside_mopaq
 As should be self-evident, this article is about the MPQ format, the "Blizzard archive". I hope that I can explain what MPQs are, how they works, and why they do the things they do.
 
 Quotes of Warcraft III
-http://wowwiki.wikia.com/wiki/Quotes_of_Warcraft_III
+http://wowwiki.wikia.com/wiki/Quotes_of_Warcraft_III (good but maybe obsolete)
+https://wowpedia.fandom.com/wiki/Quotes_of_Warcraft_III (new)
 war3 音效
 
 Blizzard General Discussion   
