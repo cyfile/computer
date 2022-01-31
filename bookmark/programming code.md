@@ -23,16 +23,16 @@ http://www.cplusplus.com/reference/
 https://en.cppreference.com/w/c
 
 
-Microsoft C Run-Time Library  
-https://msdn.microsoft.com/en-us/library/59ey50w6.aspx
-Visual C++ Redistributable for Visual Studio 2015
-https://www.microsoft.com/en-us/download/details.aspx?id=48145
-C++ Redistributable Latest Supported Downloads
-https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
-Windows SDK
-https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/
-connection endpoints
-https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1903-non-enterprise-editions
+Microsoft C runtime library (CRT) 
+https://docs.microsoft.com/en-us/cpp/c-runtime-library/c-run-time-library-reference?view=msvc-170  
+Visual C++ Redistributable for Visual Studio 2015  
+https://www.microsoft.com/en-us/download/details.aspx?id=48145  
+C++ Redistributable Latest Supported Downloads  
+https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170  
+Windows SDK  
+https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/  
+connection endpoints  
+https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1903-non-enterprise-editions  
 
 
 C++ & C函数手册
