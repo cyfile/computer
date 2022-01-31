@@ -18,17 +18,24 @@ https://en.wikipedia.org/wiki/X86_instruction_listings#SSE2_instructions
 
 ### C and C++
 C Language Library  
-http://www.cplusplus.com/reference/cstdio/printf/
+http://www.cplusplus.com/reference/cstdio/printf/   
+http://www.cplusplus.com/reference/   
+https://en.cppreference.com/w/c
+
 
 Microsoft C Run-Time Library  
 https://msdn.microsoft.com/en-us/library/59ey50w6.aspx
+Visual C++ Redistributable for Visual Studio 2015
+https://www.microsoft.com/en-us/download/details.aspx?id=48145
+C++ Redistributable Latest Supported Downloads
+https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+Windows SDK
+https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/
+connection endpoints
+https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1903-non-enterprise-editions
 
 
-C++ & C函数手册   
-http://www.cplusplus.com/reference/   
-https://en.cppreference.com/w   
-https://zh.cppreference.com/w/cpp/header
-
+C++ & C函数手册
 ### java
 https://tool.oschina.net/uploads/apidocs/jdk-zh/java/awt/class-use/Frame.html
 
