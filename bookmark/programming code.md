@@ -23,7 +23,7 @@ http://www.cplusplus.com/reference/
 https://en.cppreference.com/w/c
 
 
-Microsoft C runtime library (CRT) 
+Microsoft C runtime library (CRT)  
 https://docs.microsoft.com/en-us/cpp/c-runtime-library/c-run-time-library-reference?view=msvc-170  
 Visual C++ Redistributable for Visual Studio 2015  
 https://www.microsoft.com/en-us/download/details.aspx?id=48145  
@@ -35,7 +35,7 @@ connection endpoints
 https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1903-non-enterprise-editions  
 
 
-C++ & C函数手册
+
 ### java
 https://tool.oschina.net/uploads/apidocs/jdk-zh/java/awt/class-use/Frame.html
 
