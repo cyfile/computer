@@ -4,9 +4,6 @@ http://imtranslator.net/translate-and-speak/
 translation
 http://free-translator.imtranslator.net/speech.asp
 
-chinasmack
-http://www.chinasmack.com/
-
 Grammar Girl
 http://www.quickanddirtytips.com/
 
