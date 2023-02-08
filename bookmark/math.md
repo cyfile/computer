@@ -10,12 +10,6 @@ https://alphagoteach.deepmind.com/
 true randomness
 http://www.random.org/
 
-匈牙利算法
-http://csclab.murraystate.edu/bob.pilgrim/445/  
-http://csclab.murraystate.edu/bob.pilgrim/445/munkres.html  
-http://csclab.murraystate.edu/bob.pilgrim/445/sample_problems/sample_problems.html
-
-
 
 空间直线与平面的交点
 http://blog.csdn.net/abcjennifer/article/details/6688080
