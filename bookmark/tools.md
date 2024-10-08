@@ -15,15 +15,23 @@ Class Diagram
 https://yuml.me/diagram/scruffy/class/samples
 
 
-## 编码
-站长工具 
-http://tool.chinaz.com/
+## media
+Untitled Diagram.drawio - Page-1
+https://app.diagrams.net/  
 
-UrlEncode编码/解码 
-http://tool.chinaz.com/tools/urlencode.aspx   
+StickerBaker | Make AI stickers
+https://stickerbaker.com/#  
 
-HTML 特殊符号编码对照表 
-http://tool.chinaz.com/Tools/htmlchar.aspx
+AHA Music - Song Finder for Browser | What song is this?
+https://www.aha-music.com/  
+
+播放器
+https://dplayerx.com/m3u8.php?url=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8  
+
+Aliplay记忆播放器（点播）
+https://www.lbjx9.com/?url=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8  
+
+
 
 ## 其它
 download a video just insert a link! 
