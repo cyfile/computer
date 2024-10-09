@@ -46,3 +46,18 @@ https://1lib.ml/s/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E6%A0%B8%E5%BF%83%E5%8E%9
 https://www.pdfdrive.com/  
 https://librarygenesis.net/zh/  
 https://yibook.org/
+
+## matlab download
+Download and play torrents | Webtor.io
+https://webtor.io/#/  
+
+BTSOW - The free online torrent file to magnet link conversion, magnet link to torrent file conversion, Search magnet link and Search torrent file.
+https://tellme.pw/btsow  
+
+matlab torrent, magnet, bt - BTSOW - Search
+https://btsow.motorcycles/search/matlab  
+
+Support - System Requirements and Supported Compilers Previous Releases - MATLAB & Simulink
+https://ww2.mathworks.cn/support/requirements/previous-releases.html  
+
+
