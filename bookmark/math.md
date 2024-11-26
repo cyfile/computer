@@ -12,6 +12,8 @@ http://www.random.org/
 
 PathFinding.js  http://qiao.github.io/PathFinding.js/visual/  
 
+Will It Shuffle?  https://bost.ocks.org/mike/shuffle/compare.html  
+
 空间直线与平面的交点
 http://blog.csdn.net/abcjennifer/article/details/6688080
 
