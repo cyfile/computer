@@ -15,6 +15,10 @@ https://wiki.cheatengine.org/index.php?title=File:Table_of_x86_Registers_svg.svg
 
 X86_instruction  
 https://en.wikipedia.org/wiki/X86_instruction_listings#SSE2_instructions
+https://www.felixcloutier.com/x86/  
+https://www.scs.stanford.edu/05au-cs240c/lab/i386/s17_02.htm  
+https://c9x.me/x86/
+
 
 ### C and C++
 C Language Library  
@@ -35,12 +39,6 @@ connection endpoints
 https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1903-non-enterprise-editions  
 
 
-
-### java
-https://tool.oschina.net/uploads/apidocs/jdk-zh/java/awt/class-use/Frame.html
-
-JNA api   
-http://java-native-access.github.io/jna/4.4.0/javadoc/index.html?overview-summary.html
 
 ---
 ## utility
