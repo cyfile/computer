@@ -1,20 +1,17 @@
 ### Assembly Language
-The Starman's Realm (大宝藏)   
-http://thestarman.pcministry.com/   
-The MS-DOS 7  Internal Commands(Dos manual)  
-http://thestarman.pcministry.com/DOS/DOS7INT.htm   
-A DEBUG Tutorial (MS-Debug manual) 
-http://thestarman.pcministry.com/asm/debug/debug2.htm
+The Starman's Realm (大宝藏)  http://thestarman.pcministry.com/   
+
+The MS-DOS 7  Internal Commands(Dos manual)  http://thestarman.pcministry.com/DOS/DOS7INT.htm  
+
+A DEBUG Tutorial (MS-Debug manual)  http://thestarman.pcministry.com/asm/debug/debug2.htm
 
 DEBUG tutorial
 http://www.armory.com/~rstevew/Public/Tutor/Debug/debug-manual.html
 
-x86 Registers
-https://wiki.cheatengine.org/index.php?title=Assembler#Segments    
+x86 Registers  https://wiki.cheatengine.org/index.php?title=Assembler#Segments    
 https://wiki.cheatengine.org/index.php?title=File:Table_of_x86_Registers_svg.svg.png
 
-X86_instruction  
-https://en.wikipedia.org/wiki/X86_instruction_listings#SSE2_instructions
+X86_instruction  https://en.wikipedia.org/wiki/X86_instruction_listings#SSE2_instructions  
 https://www.felixcloutier.com/x86/  
 https://www.scs.stanford.edu/05au-cs240c/lab/i386/s17_02.htm  
 https://c9x.me/x86/
