@@ -7,12 +7,16 @@ http://www.sudokuwiki.org/
 AlphaGo Teaching Tool of playing Go
 https://alphagoteach.deepmind.com/
 
-true randomness  http://www.random.org/
+true randomness  
+http://www.random.org/
 
-PathFinding.js  http://qiao.github.io/PathFinding.js/visual/  
+PathFinding.js  
+http://qiao.github.io/PathFinding.js/visual/  
 
-How the Word Cloud Generator Works  https://www.jasondavies.com/wordcloud/about/
-Word Cloud Generator  https://www.jasondavies.com/wordcloud/
+How the Word Cloud Generator Works 
+https://www.jasondavies.com/wordcloud/about/  
+Word Cloud Generator  
+https://www.jasondavies.com/wordcloud/
 
 Will It Shuffle?  https://bost.ocks.org/mike/shuffle/compare.html  
 
