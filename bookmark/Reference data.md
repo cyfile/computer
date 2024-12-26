@@ -1,18 +1,20 @@
-Intel系列 CPU天梯图	
-http://www.ppnames.com/html/352.html
+size of repos 	
+https://api.github.com/repos/wty-yy/Clash-Royale-Replay-Dataset
+
+bilibili-API-collect 
+https://github.com/SocialSisterYi/bilibili-API-collect 
+https://socialsisteryi.github.io/bilibili-API-collect  
+
+public-apis 	
+https://github.com/marcelscruz/public-apis
 
 heavens-above	
 http://www.heavens-above.com/
 
-alexa	
-https://www.alexa.com/topsites
-
-tiobe	
-https://www.tiobe.com/tiobe-index/
-
 Nuclear Power in China	
 https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/china-nuclear-power.aspx
 
+-----
 
 collection of online utility websites
 
