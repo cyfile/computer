@@ -33,7 +33,8 @@ https://www.lbjx9.com/?url=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced
 download a video just insert a link! 
 https://freesave.co/zh-cn/index.html  
 https://greenvideo.cc/  
-https://tubedown.cn/youtube
+https://tubedown.cn/youtube  
+https://www.downloadyoutubesubtitles.com/
 
 
 ibilibili(失效视频解析)
