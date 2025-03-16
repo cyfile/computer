@@ -38,3 +38,6 @@ https://us.forums.blizzard.com/en/warcraft3/latest
 
 Warcraft encyclopedia   
 https://liquipedia.net/warcraft/Main_Page
+
+The Unit Editor   
+https://world-editor-tutorials.thehelper.net/uniteditor.php
