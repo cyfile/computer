@@ -30,7 +30,8 @@ https://dplayerx.com/m3u8.php?url=https://d2zihajmogu5jn.cloudfront.net/bipbop-a
 Aliplay记忆播放器（点播）
 https://www.lbjx9.com/?url=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8  
 
-download a video just insert a link! 
+download a video just insert a link!  
+https://en1.savefrom.net/18CX/  
 https://freesave.co/zh-cn/index.html  
 https://greenvideo.cc/  
 https://tubedown.cn/youtube  
